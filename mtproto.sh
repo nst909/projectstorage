@@ -348,9 +348,9 @@ showLog() {
 
     clear
     echo "#############################################################"
-    echo -e "#                    ${RED}MTProto一键安装脚本${PLAIN}                    #"
-    echo -e "# ${GREEN}作者${PLAIN}: 网络跳越(hijk)  & 花海（CNHAI）                                    #"
-    echo -e "# ${GREEN}网址${PLAIN}: https://blog.hhisite.cn                             #"
+    echo -e "#                    ${RED}花海MTProto一键安装脚本${PLAIN}                    #"
+    echo -e "# ${GREEN}作者${PLAIN}: 网络跳越  & 花海（CNHAI）                                    #"
+    echo -e "# ${GREEN}网址${PLAIN}: https://blog.junsangs.com/                             #"
     echo "#############################################################"
     echo ""
 
