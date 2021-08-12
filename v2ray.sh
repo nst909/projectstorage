@@ -1864,7 +1864,7 @@ showLog() {
 menu() {
     clear
     echo "#############################################################"
-    echo -e "#                   ${RED}v2ray一键安装脚本${PLAIN}                      #"
+    echo -e "#                   ${RED}花海一键安装脚本${PLAIN}                      #"
     echo -e "# ${GREEN}作者${PLAIN}: 花海修改版本&网络跳越                                    #"
     echo -e "# ${GREEN}博客${PLAIN}: https://blog.junsangs.com/                                    #"                  
     echo -e "# ${GREEN}TG${PLAIN}: https://t.me/cnhai                               #"
