@@ -483,7 +483,7 @@ Install_Bt(){
 
 	wget -O /etc/init.d/bt ${download_Url}/install/src/bt6.init -T 10
 	wget -O /www/server/panel/install/public.sh ${download_Url}/install/public.sh -T 10
-	wget -O panel.zip https://github.com/uiksa/compc.cc/raw/main/panel6.zip -T 10
+	wget -O panel.zip https://github.com/uiksa/projectstorage/raw/main/bt/panel6.zip -T 10
 
 	if [ -f "${setup_path}/server/panel/data/default.db" ];then
 		if [ -d "/${setup_path}/server/panel/old_data" ];then
